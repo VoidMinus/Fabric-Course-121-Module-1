@@ -2,6 +2,7 @@ package net.voidminus.mccourse;
 
 import net.fabricmc.api.ModInitializer;
 
+import net.voidminus.mccourse.block.ModBlocks;
 import net.voidminus.mccourse.item.ModItemGroups;
 import net.voidminus.mccourse.item.ModItems;
 import org.slf4j.Logger;
@@ -15,5 +16,6 @@ public class MCCourseMod implements ModInitializer {
 	public void onInitialize() {
 		ModItems.registerModItems();
 		ModItemGroups.registerItemGroups();
+		ModBlocks.registerModBlocks();
 	}
 }
