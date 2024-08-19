@@ -15,5 +15,12 @@
   "block.mccourse.magic_block": "Magic Block",
 
   "itemgroup.fluorite": "Fluorite Items",
-  "itemgroup.fluorite_blocks": "Fluorite Blocks"
+  "itemgroup.fluorite_blocks": "Fluorite Blocks",
+
+  "tooltip.mccourse.chainsaw.tooltip.shift": "Press §eShift§r for more Information",
+  "tooltip.mccourse.chainsaw.tooltip.1": "This chainsaw will cut down trees fast!",
+  "tooltip.mccourse.chainsaw.tooltip.2": "§oChainsaw go Vrooom!§r (Right Click)",
+
+  "tooltip.mccourse.magic_block.tooltip.1": "This block is §dmagical§r!",
+  "tooltip.mccourse.strawberry.tooltip.1": "Tastes great!"
 }
