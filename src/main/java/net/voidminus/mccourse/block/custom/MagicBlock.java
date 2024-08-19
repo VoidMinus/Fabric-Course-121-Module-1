@@ -16,7 +16,7 @@ import net.minecraft.util.ActionResult;
 import net.minecraft.util.hit.BlockHitResult;
 import net.minecraft.util.math.BlockPos;
 import net.minecraft.world.World;
-import net.voidminus.mccourse.item.ModItems;
+import net.voidminus.mccourse.util.ModTags;
 
 import java.util.List;
 
@@ -44,7 +44,7 @@ public class MagicBlock extends Block {
     }
 
     private boolean isValidItem(ItemStack stack) {
-        return stack.getItem() == ModItems.FLUORITE || stack.getItem() == ModItems.RAW_FLUORITE || stack.getItem() == Items.COAL;
+        return stack.isIn(ModTags.Items.TRANSFORMABLE_ITEMS);
     }
 
     @Override
