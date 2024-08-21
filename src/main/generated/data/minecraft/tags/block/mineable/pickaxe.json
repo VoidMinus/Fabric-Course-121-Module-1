@@ -4,6 +4,8 @@
     "mccourse:fluorite_ore",
     "mccourse:fluorite_deepslate_ore",
     "mccourse:fluorite_end_ore",
-    "mccourse:fluorite_nether_ore"
+    "mccourse:fluorite_nether_ore",
+    "mccourse:fluorite_stairs",
+    "mccourse:fluorite_slab"
   ]
 }
