@@ -1,6 +1,6 @@
-// 1.21.1	2024-08-23T12:39:19.8444394	MC Course Mod/Tags for minecraft:block
-3ab1fb537a9f59b6bbee9bb8c9be3822e4e02e3b data\minecraft\tags\block\mineable\pickaxe.json
+// 1.21.1	2024-08-23T14:02:28.5579753	MC Course Mod/Tags for minecraft:block
 80c7f84ef7ac16654c33d2f3345d825db1565c34 data\minecraft\tags\block\needs_diamond_tool.json
+3ab1fb537a9f59b6bbee9bb8c9be3822e4e02e3b data\minecraft\tags\block\mineable\pickaxe.json
 f7195f176d8f383d5dafa778fccf8c74db194eac data\minecraft\tags\block\fence_gates.json
 470bec0afd29fe43bf1667ea283e1706164ea4be data\minecraft\tags\block\fences.json
 93b7b85480a984b3b9f7224014de0f064e974ecf data\minecraft\tags\block\needs_iron_tool.json
